@@ -1,0 +1,4 @@
+I want to upload text file to git
+:wq
+Create new texts in VM
+:wq
